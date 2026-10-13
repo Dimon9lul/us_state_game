@@ -26,9 +26,7 @@ with open("50_states.csv") as DATA:
 
 
 def check(name):
-    print(name)
     correct_answer = name.title()
-    print(correct_answer)
     loop_began = True
     for i in range(0, len(states)):
         if states[i] == correct_answer:
