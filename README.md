@@ -6,6 +6,8 @@ to let you guess the names of US states. After entering the name of an existing 
 The csv file contains the names of the states and the according coordinates on the map which the application uses to draw the
 name on the map.
 
+![Screenshot of the game](state_guessing.png)
+
 ---
 
 Simple but fun game. 👾
